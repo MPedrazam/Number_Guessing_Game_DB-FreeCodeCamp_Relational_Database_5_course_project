@@ -2,8 +2,7 @@
 
 This is the fifth requeried project in the FreeCodeCamp Relational Database Certification.
 
-The project aims to use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information
-https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game
+The project aims to use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information. Project information can be found [HERE](https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game)
 
 The project task are:
 
