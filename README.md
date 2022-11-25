@@ -1,8 +1,8 @@
 # Build a Number Guessing Game DB: FreeCodeCamp Relational Database course-project.
 
-This is the fifth requeried project in the FreeCodeCamp Relational Database Certification.
+These repository shows the results of the fifth required project in the FreeCodeCamp Relational Database Certification.
 
-The project aims to use Bash scripting, PostgreSQL, and Git to create a number guessing game that runs in the terminal and saves user information. Project information can be found [HERE](https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game)
+In the project development it is used Bash language, PostgreSQL query language, and Git to create a "number guessing game" that runs in the terminal and saves user information into a database to be accesses in the following attempts. Information about the project and the requirements can be found [HERE](https://www.freecodecamp.org/learn/relational-database/build-a-number-guessing-game-project/build-a-number-guessing-game).
 
 The project task are:
 
@@ -37,3 +37,8 @@ The project task are:
     15. The rest of the commit messages should start with fix:, feat:, refactor:, chore:, or test:
 
     16. You should finish your project while on the main branch, your working tree should be clean, and you should not have any uncommitted changes
+    
+    
+![pic05-min](https://user-images.githubusercontent.com/111818883/204005932-6fd5cecd-59e9-4679-9dbd-2b75a7a746ca.jpg)
+
+
